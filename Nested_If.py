@@ -39,7 +39,7 @@ meal = input("Would you like a vegetarian meal?")
 if action == "yes":
      print("We recommend 'Veggie Delight Caterers'")
 else:
-     print("We recommend 'Gourmet Meals Caterers")
+     print("We recommend 'Gourmet Meals Caterers'")
 
 
 
